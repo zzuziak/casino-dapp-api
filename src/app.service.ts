@@ -55,6 +55,6 @@ export class AppService {
   }
 
   async flipCoin(address: string, amount: number) {
-    // TODO: implement
+    // TODO: implement method
   }
 }
